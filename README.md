@@ -6,7 +6,7 @@ This is a FastAPI project that provides APIs for URL processing, PDF processing,
 ## Project Structure
 
 ```
-/Home_assement_1
+/Fast_apis_development
 │
 ├── /app
 │   ├── /routes
@@ -46,7 +46,7 @@ This is a FastAPI project that provides APIs for URL processing, PDF processing,
 
 ```bash
 git clone https://github.com/Ansh9728/hygwell.git
-cd Home_assement_1
+cd Fast_apis_development
 ```
 
 ### 2. Docker Setup
